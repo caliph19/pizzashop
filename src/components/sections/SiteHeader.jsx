@@ -48,8 +48,8 @@ export default function SiteHeader({
       >
         <div className="section-shell nav-inner">
           <motion.a href="#top" className="brand" aria-label="Food Mood home" whileHover={{ scale: 1.03 }}>
-            <span className="brand-mark">IB</span>
-            <span>Innovative Bite & Pizza Place</span>
+            <span className="brand-mark">PS</span>
+            <span>The Pizza Shop</span>
           </motion.a>
 
           <div className="nav-actions">
